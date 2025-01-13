@@ -1,0 +1,122 @@
+.open-sans-normal{
+    font-family: "Open Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+  }
+  
+  *{
+    
+  }
+  
+  .navv{
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin: 25px 150px 25px 150px;
+  }
+  
+  .nav-title{
+      font-weight: bold;
+      font-size: 32px;
+  }
+  
+  .btn{
+      border: 1px solid #006A50;
+      padding: 18px 35px;
+      border-radius: 8px;
+      font-weight: 400;
+      font-size: 18px;
+      color: #006A50;
+      
+  }
+  
+  .banner{
+      display: flex;
+      justify-content: space-between;
+      border-width: 1280;
+      border: 1px  rgb(82, 114, 82);
+      border-radius: 24px;
+      padding: 100px 80px;
+      margin: 25px 150px 25px 150px;
+      background-color: #C6E4D6;
+      text-decoration: none;
+  }
+  
+  .title{
+    font-weight: 400;
+    font-size: 24px;
+  }
+  .description{
+      width:622px;
+      font-weight: 800;
+      font-size: 56px;
+  }
+  
+  .btn-primary{
+      background-color: #006A50;
+      padding: 18px 35px;
+      color: white;
+      border-radius: 8px;
+  }
+  
+  .title3{
+    margin: 25px 150px 25px 150px;
+  }
+
+  .vision{
+    display: flex;
+  }
+
+  .head3{
+    font-weight: bold;
+    font-size: 40px;
+  }
+
+  .vision1{
+    margin: 25px 150px 25px 150px;
+    border-width: 410px;
+    height: 325px;
+    padding: 32px;
+    border: 1px #5490f5;
+    border-radius: 16px;
+    background-color: #5490f5;
+    font-weight: 400;
+    font-size: 40px;
+  }
+
+  .vision2{
+    margin: 25px 150px 25px 150px;
+    border-width: 410px;
+    height: 325px;
+    padding: 32px;
+    
+    border: 1px #c6e4d6;
+    border-radius: 16px;
+    background-color: #c6e4d6;
+  }
+
+  .vision3{
+    margin: 25px 150px 25px 150px;
+    border-width: 410px;
+    height: 325px;
+    padding: 32px;
+    
+    border: 1px #f7cbef;
+    border-radius: 16px;
+    background-color: #f7cbef;
+  }
+
+  .vh{
+    font-weight: bold;
+    font-size: 20;
+    color: #0e0e0e;
+  }
+
+  .vp{
+    font-weight: 400;
+    font-size: 16px;
+    color: #0e0e0e;
+  }
