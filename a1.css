@@ -65,6 +65,14 @@
   .title3{
     margin: 25px 150px 25px 150px;
   }
+  .recent{
+    margin: 25px 150px 25px 150px;
+  }
+
+  .para{
+    font-weight: 400;
+    font-size: 16px;
+  }
 
   .vision{
     display: flex;
@@ -92,10 +100,11 @@
     border-width: 410px;
     height: 325px;
     padding: 32px;
-    
     border: 1px #c6e4d6;
     border-radius: 16px;
     background-color: #c6e4d6;
+    font-weight: 400;
+    font-size: 40px;
   }
 
   .vision3{
@@ -103,10 +112,11 @@
     border-width: 410px;
     height: 325px;
     padding: 32px;
-    
     border: 1px #f7cbef;
     border-radius: 16px;
     background-color: #f7cbef;
+    font-weight: 400;
+    font-size: 40px;
   }
 
   .vh{
@@ -120,3 +130,71 @@
     font-size: 16px;
     color: #0e0e0e;
   }
+
+  .recent1{
+    display: flex;
+    justify-content: space-between;
+    
+  }
+  .recentimg{
+    border-width: 408px;
+    height: 306px;
+    border-radius: 24px;
+  }
+  .title4{
+    margin: 25px 150px 25px 150px;
+  }
+  .donate{
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+  }
+  .donatepara{
+    text-align: center;
+    font-weight: 400;
+    font-size: 16px;
+  }
+  .donateamnt{
+    margin: 25px 150px 25px 150px;
+  }
+  .donateamnt1{
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+    font-size: 40px;
+  }
+  .donateamnt2{
+    border: 1px #ffff;
+    border-width: 252px;
+    height: 128px;
+    border-radius: 16px;
+    text-align: center;
+
+  }
+  .donateamnt3{
+    border: 1px #C6E4D6;
+    border-width: 252px;
+    height: 128px;
+    border-radius: 16px;
+    background-color: #C6E4D6;
+    text-align: center;
+  }
+  .title5{
+    margin: 25px 150px 25px 150px;
+    border-width: 1280;
+    border: 1px  rgb(82, 114, 82);
+    border-radius: 24px;
+    background-color: #C6E4D6;
+    text-decoration: none;
+  }
+
+  .quote{
+    margin: 25px 150px 25px 150px;
+    position: relative;
+  }
+  .overwite{
+    position:absolute;
+    top: 8px;
+    left: 16px;
+  }
+  
